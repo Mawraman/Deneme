@@ -1,2 +1,2 @@
 # Deneme
-Deneme rep
+Deneme repository read me
